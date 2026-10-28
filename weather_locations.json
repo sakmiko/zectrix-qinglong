@@ -1,0 +1,1489 @@
+{
+  "version": "2.0",
+  "locations": [
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "海淀区",
+      "lon": 116.298,
+      "lat": 39.9599,
+      "nmc_station_id": "54399",
+      "nmc_path": "ABJ/haidian",
+      "weather_cn_code": "101010200",
+      "moji_slug": "beijing/haidian-district",
+      "aliases": [
+        "北京海淀",
+        "海淀",
+        "中关村",
+        "五道口",
+        "beijing haidian"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "朝阳区",
+      "lon": 116.4864,
+      "lat": 39.9215,
+      "nmc_station_id": "54433",
+      "nmc_path": "ABJ/chaoyang",
+      "weather_cn_code": "101010300",
+      "moji_slug": "beijing/chaoyang-district",
+      "aliases": [
+        "北京朝阳",
+        "朝阳",
+        "国贸",
+        "三里屯",
+        "望京",
+        "beijing chaoyang"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "东城区",
+      "lon": 116.4164,
+      "lat": 39.9283,
+      "nmc_station_id": "54511",
+      "nmc_path": "ABJ/beijing",
+      "weather_cn_code": "101010100",
+      "moji_slug": "beijing/dongcheng-district",
+      "aliases": [
+        "北京东城",
+        "东城",
+        "北京",
+        "北京市",
+        "天安门",
+        "王府井"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "西城区",
+      "lon": 116.3659,
+      "lat": 39.9123,
+      "nmc_station_id": "54511",
+      "nmc_path": "ABJ/beijing",
+      "weather_cn_code": "101011500",
+      "moji_slug": "beijing/xicheng-district",
+      "aliases": [
+        "北京西城",
+        "西城",
+        "金融街",
+        "西单"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "丰台区",
+      "lon": 116.2869,
+      "lat": 39.8584,
+      "nmc_station_id": "54514",
+      "nmc_path": "ABJ/fengtai",
+      "weather_cn_code": "101010900",
+      "moji_slug": "beijing/fengtai-district",
+      "aliases": [
+        "北京丰台",
+        "丰台"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "石景山区",
+      "lon": 116.2229,
+      "lat": 39.9066,
+      "nmc_station_id": "54513",
+      "nmc_path": "ABJ/shijingshan",
+      "weather_cn_code": "101011000",
+      "moji_slug": "beijing/shijingshan-district",
+      "aliases": [
+        "北京石景山",
+        "石景山"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "通州区",
+      "lon": 116.6564,
+      "lat": 39.9099,
+      "nmc_station_id": "54431",
+      "nmc_path": "ABJ/tongzhou",
+      "weather_cn_code": "101010600",
+      "moji_slug": "beijing/tongzhou-district",
+      "aliases": [
+        "北京通州",
+        "通州",
+        "副中心"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "昌平区",
+      "lon": 116.2312,
+      "lat": 40.2207,
+      "nmc_station_id": "54499",
+      "nmc_path": "ABJ/changping",
+      "weather_cn_code": "101010700",
+      "moji_slug": "beijing/changping-district",
+      "aliases": [
+        "北京昌平",
+        "昌平",
+        "回龙观",
+        "天通苑"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "大兴区",
+      "lon": 116.3414,
+      "lat": 39.7269,
+      "nmc_station_id": "54594",
+      "nmc_path": "ABJ/daxing",
+      "weather_cn_code": "101011100",
+      "moji_slug": "beijing/daxing-district",
+      "aliases": [
+        "北京大兴",
+        "大兴",
+        "亦庄"
+      ]
+    },
+    {
+      "province": "北京市",
+      "city": "北京",
+      "district": "顺义区",
+      "lon": 116.6545,
+      "lat": 40.1303,
+      "nmc_station_id": "54398",
+      "nmc_path": "ABJ/shunyi",
+      "weather_cn_code": "101010400",
+      "moji_slug": "beijing/shunyi-district",
+      "aliases": [
+        "北京顺义",
+        "顺义"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "徐汇区",
+      "lon": 121.4365,
+      "lat": 31.1885,
+      "nmc_station_id": "58367",
+      "nmc_path": "ASH/xuhui",
+      "weather_cn_code": "101021200",
+      "moji_slug": "shanghai/xuhui-district",
+      "aliases": [
+        "上海徐汇",
+        "徐汇",
+        "上海",
+        "上海市",
+        "徐家汇",
+        "shanghai xuhui"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "浦东新区",
+      "lon": 121.5444,
+      "lat": 31.2215,
+      "nmc_station_id": "58370",
+      "nmc_path": "ASH/pudong",
+      "weather_cn_code": "101020600",
+      "moji_slug": "shanghai/pudong-new-area",
+      "aliases": [
+        "上海浦东",
+        "浦东",
+        "陆家嘴",
+        "张江",
+        "shanghai pudong"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "黄浦区",
+      "lon": 121.4844,
+      "lat": 31.2317,
+      "nmc_station_id": "58367",
+      "nmc_path": "ASH/shanghai",
+      "weather_cn_code": "101020100",
+      "moji_slug": "shanghai/huangpu-district",
+      "aliases": [
+        "上海黄浦",
+        "黄浦",
+        "外滩",
+        "人民广场"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "静安区",
+      "lon": 121.4474,
+      "lat": 31.2279,
+      "nmc_station_id": "58367",
+      "nmc_path": "ASH/jingan",
+      "weather_cn_code": "101021400",
+      "moji_slug": "shanghai/jingan-district",
+      "aliases": [
+        "上海静安",
+        "静安",
+        "静安寺"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "长宁区",
+      "lon": 121.4246,
+      "lat": 31.2204,
+      "nmc_station_id": "58367",
+      "nmc_path": "ASH/changning",
+      "weather_cn_code": "101021300",
+      "moji_slug": "shanghai/changning-district",
+      "aliases": [
+        "上海长宁",
+        "长宁",
+        "虹桥"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "闵行区",
+      "lon": 121.3817,
+      "lat": 31.1128,
+      "nmc_station_id": "58361",
+      "nmc_path": "ASH/minhang",
+      "weather_cn_code": "101020200",
+      "moji_slug": "shanghai/minhang-district",
+      "aliases": [
+        "上海闵行",
+        "闵行",
+        "莘庄"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "杨浦区",
+      "lon": 121.526,
+      "lat": 31.2595,
+      "nmc_station_id": "58367",
+      "nmc_path": "ASH/yangpu",
+      "weather_cn_code": "101021700",
+      "moji_slug": "shanghai/yangpu-district",
+      "aliases": [
+        "上海杨浦",
+        "杨浦",
+        "五角场"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "松江区",
+      "lon": 121.2277,
+      "lat": 31.0322,
+      "nmc_station_id": "58462",
+      "nmc_path": "ASH/songjiang",
+      "weather_cn_code": "101020900",
+      "moji_slug": "shanghai/songjiang-district",
+      "aliases": [
+        "上海松江",
+        "松江"
+      ]
+    },
+    {
+      "province": "上海市",
+      "city": "上海",
+      "district": "嘉定区",
+      "lon": 121.2653,
+      "lat": 31.3756,
+      "nmc_station_id": "58365",
+      "nmc_path": "ASH/jiading",
+      "weather_cn_code": "101020500",
+      "moji_slug": "shanghai/jiading-district",
+      "aliases": [
+        "上海嘉定",
+        "嘉定"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "广州",
+      "district": "天河区",
+      "lon": 113.3613,
+      "lat": 23.1247,
+      "nmc_station_id": "59287",
+      "nmc_path": "AGD/guangzhou",
+      "weather_cn_code": "101280109",
+      "moji_slug": "guangdong/tianhe-district",
+      "aliases": [
+        "广州天河",
+        "天河",
+        "广州",
+        "广州市",
+        "珠江新城",
+        "guangzhou"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "广州",
+      "district": "越秀区",
+      "lon": 113.2668,
+      "lat": 23.1289,
+      "nmc_station_id": "59287",
+      "nmc_path": "AGD/guangzhou",
+      "weather_cn_code": "101280107",
+      "moji_slug": "guangdong/yuexiu-district",
+      "aliases": [
+        "广州越秀",
+        "越秀"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "广州",
+      "district": "海珠区",
+      "lon": 113.3174,
+      "lat": 23.0838,
+      "nmc_station_id": "59287",
+      "nmc_path": "AGD/guangzhou",
+      "weather_cn_code": "101280108",
+      "moji_slug": "guangdong/haizhu-district",
+      "aliases": [
+        "广州海珠",
+        "海珠",
+        "琶洲"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "广州",
+      "district": "番禺区",
+      "lon": 113.3842,
+      "lat": 22.9377,
+      "nmc_station_id": "59481",
+      "nmc_path": "AGD/panyu",
+      "weather_cn_code": "101280102",
+      "moji_slug": "guangdong/panyu-district",
+      "aliases": [
+        "广州番禺",
+        "番禺"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "广州",
+      "district": "白云区",
+      "lon": 113.2732,
+      "lat": 23.1579,
+      "nmc_station_id": "59287",
+      "nmc_path": "AGD/guangzhou",
+      "weather_cn_code": "101280110",
+      "moji_slug": "guangdong/baiyun-district",
+      "aliases": [
+        "广州白云",
+        "白云"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "深圳",
+      "district": "南山区",
+      "lon": 113.9304,
+      "lat": 22.5333,
+      "nmc_station_id": "59493",
+      "nmc_path": "AGD/shenzhen",
+      "weather_cn_code": "101280604",
+      "moji_slug": "guangdong/nanshan-district",
+      "aliases": [
+        "深圳南山",
+        "南山",
+        "深圳",
+        "深圳市",
+        "科技园",
+        "前海",
+        "shenzhen"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "深圳",
+      "district": "福田区",
+      "lon": 114.055,
+      "lat": 22.5229,
+      "nmc_station_id": "59493",
+      "nmc_path": "AGD/shenzhen",
+      "weather_cn_code": "101280603",
+      "moji_slug": "guangdong/futian-district",
+      "aliases": [
+        "深圳福田",
+        "福田",
+        "华强北"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "深圳",
+      "district": "罗湖区",
+      "lon": 114.1314,
+      "lat": 22.5484,
+      "nmc_station_id": "59493",
+      "nmc_path": "AGD/shenzhen",
+      "weather_cn_code": "101280602",
+      "moji_slug": "guangdong/luohu-district",
+      "aliases": [
+        "深圳罗湖",
+        "罗湖"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "深圳",
+      "district": "宝安区",
+      "lon": 113.8831,
+      "lat": 22.5533,
+      "nmc_station_id": "59493",
+      "nmc_path": "AGD/shenzhen",
+      "weather_cn_code": "101280605",
+      "moji_slug": "guangdong/baoan-district",
+      "aliases": [
+        "深圳宝安",
+        "宝安"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "深圳",
+      "district": "龙岗区",
+      "lon": 114.2477,
+      "lat": 22.7199,
+      "nmc_station_id": "59493",
+      "nmc_path": "AGD/shenzhen",
+      "weather_cn_code": "101280606",
+      "moji_slug": "guangdong/longgang-district",
+      "aliases": [
+        "深圳龙岗",
+        "龙岗"
+      ]
+    },
+    {
+      "province": "广东省",
+      "city": "深圳",
+      "district": "龙华区",
+      "lon": 114.0365,
+      "lat": 22.657,
+      "nmc_station_id": "59493",
+      "nmc_path": "AGD/shenzhen",
+      "weather_cn_code": "101280609",
+      "moji_slug": "guangdong/longhua-district",
+      "aliases": [
+        "深圳龙华",
+        "深圳北站"
+      ]
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州",
+      "district": "西湖区",
+      "lon": 120.1298,
+      "lat": 30.2595,
+      "nmc_station_id": "58457",
+      "nmc_path": "AZJ/hangzhou",
+      "weather_cn_code": "101210113",
+      "moji_slug": "zhejiang/xihu-district",
+      "aliases": [
+        "杭州西湖",
+        "西湖",
+        "杭州",
+        "杭州市",
+        "hangzhou"
+      ]
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州",
+      "district": "上城区",
+      "lon": 120.1693,
+      "lat": 30.2425,
+      "nmc_station_id": "58457",
+      "nmc_path": "AZJ/hangzhou",
+      "weather_cn_code": "101210109",
+      "moji_slug": "zhejiang/shangcheng-district",
+      "aliases": [
+        "杭州上城",
+        "上城"
+      ]
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州",
+      "district": "拱墅区",
+      "lon": 120.1421,
+      "lat": 30.3197,
+      "nmc_station_id": "58457",
+      "nmc_path": "AZJ/hangzhou",
+      "weather_cn_code": "101210111",
+      "moji_slug": "zhejiang/gongshu-district",
+      "aliases": [
+        "杭州拱墅",
+        "拱墅"
+      ]
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州",
+      "district": "滨江区",
+      "lon": 120.2119,
+      "lat": 30.2084,
+      "nmc_station_id": "58457",
+      "nmc_path": "AZJ/hangzhou",
+      "weather_cn_code": "101210114",
+      "moji_slug": "zhejiang/binjiang-district",
+      "aliases": [
+        "杭州滨江",
+        "滨江"
+      ]
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州",
+      "district": "余杭区",
+      "lon": 120.0085,
+      "lat": 30.2736,
+      "nmc_station_id": "58444",
+      "nmc_path": "AZJ/yuhang",
+      "weather_cn_code": "101210106",
+      "moji_slug": "zhejiang/yuhang-district",
+      "aliases": [
+        "杭州余杭",
+        "余杭",
+        "未来科技城"
+      ]
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州",
+      "district": "萧山区",
+      "lon": 120.2645,
+      "lat": 30.1851,
+      "nmc_station_id": "58459",
+      "nmc_path": "AZJ/xiaoshan",
+      "weather_cn_code": "101210102",
+      "moji_slug": "zhejiang/xiaoshan-district",
+      "aliases": [
+        "杭州萧山",
+        "萧山"
+      ]
+    },
+    {
+      "province": "江苏省",
+      "city": "南京",
+      "district": "玄武区",
+      "lon": 118.7977,
+      "lat": 32.0486,
+      "nmc_station_id": "58238",
+      "nmc_path": "AJS/nanjing",
+      "weather_cn_code": "101190108",
+      "moji_slug": "jiangsu/xuanwu-district",
+      "aliases": [
+        "南京玄武",
+        "玄武",
+        "南京",
+        "南京市",
+        "nanjing"
+      ]
+    },
+    {
+      "province": "江苏省",
+      "city": "南京",
+      "district": "鼓楼区",
+      "lon": 118.7697,
+      "lat": 32.0663,
+      "nmc_station_id": "58238",
+      "nmc_path": "AJS/nanjing",
+      "weather_cn_code": "101190109",
+      "moji_slug": "jiangsu/gulou-district",
+      "aliases": [
+        "南京鼓楼"
+      ]
+    },
+    {
+      "province": "江苏省",
+      "city": "南京",
+      "district": "建邺区",
+      "lon": 118.7327,
+      "lat": 32.0045,
+      "nmc_station_id": "58238",
+      "nmc_path": "AJS/nanjing",
+      "weather_cn_code": "101190110",
+      "moji_slug": "jiangsu/jianye-district",
+      "aliases": [
+        "南京建邺",
+        "建邺",
+        "河西"
+      ]
+    },
+    {
+      "province": "江苏省",
+      "city": "南京",
+      "district": "江宁区",
+      "lon": 118.84,
+      "lat": 31.9526,
+      "nmc_station_id": "58238",
+      "nmc_path": "AJS/jiangning",
+      "weather_cn_code": "101190104",
+      "moji_slug": "jiangsu/jiangning-district",
+      "aliases": [
+        "南京江宁",
+        "江宁"
+      ]
+    },
+    {
+      "province": "江苏省",
+      "city": "苏州",
+      "district": "工业园区",
+      "lon": 120.7146,
+      "lat": 31.3267,
+      "nmc_station_id": "58357",
+      "nmc_path": "AJS/suzhou",
+      "weather_cn_code": "101190401",
+      "moji_slug": "jiangsu/suzhou",
+      "aliases": [
+        "苏州工业园",
+        "苏州园区",
+        "苏州",
+        "苏州市",
+        "suzhou"
+      ]
+    },
+    {
+      "province": "江苏省",
+      "city": "苏州",
+      "district": "姑苏区",
+      "lon": 120.6174,
+      "lat": 31.3357,
+      "nmc_station_id": "58357",
+      "nmc_path": "AJS/suzhou",
+      "weather_cn_code": "101190401",
+      "moji_slug": "jiangsu/gusu-district",
+      "aliases": [
+        "苏州姑苏",
+        "姑苏"
+      ]
+    },
+    {
+      "province": "江苏省",
+      "city": "苏州",
+      "district": "昆山市",
+      "lon": 120.9807,
+      "lat": 31.3856,
+      "nmc_station_id": "58356",
+      "nmc_path": "AJS/kunshan",
+      "weather_cn_code": "101190404",
+      "moji_slug": "jiangsu/kunshan",
+      "aliases": [
+        "苏州昆山",
+        "昆山",
+        "昆山市"
+      ]
+    },
+    {
+      "province": "四川省",
+      "city": "成都",
+      "district": "武侯区",
+      "lon": 104.043,
+      "lat": 30.6423,
+      "nmc_station_id": "56294",
+      "nmc_path": "ASC/chengdu",
+      "weather_cn_code": "101270119",
+      "moji_slug": "sichuan/wuhou-district",
+      "aliases": [
+        "成都武侯",
+        "武侯",
+        "成都",
+        "成都市",
+        "高新区",
+        "chengdu"
+      ]
+    },
+    {
+      "province": "四川省",
+      "city": "成都",
+      "district": "锦江区",
+      "lon": 104.0835,
+      "lat": 30.6561,
+      "nmc_station_id": "56294",
+      "nmc_path": "ASC/chengdu",
+      "weather_cn_code": "101270116",
+      "moji_slug": "sichuan/jinjiang-district",
+      "aliases": [
+        "成都锦江",
+        "锦江",
+        "春熙路",
+        "太古里"
+      ]
+    },
+    {
+      "province": "四川省",
+      "city": "成都",
+      "district": "青羊区",
+      "lon": 104.0615,
+      "lat": 30.6739,
+      "nmc_station_id": "56294",
+      "nmc_path": "ASC/chengdu",
+      "weather_cn_code": "101270117",
+      "moji_slug": "sichuan/qingyang-district",
+      "aliases": [
+        "成都青羊",
+        "青羊"
+      ]
+    },
+    {
+      "province": "四川省",
+      "city": "成都",
+      "district": "双流区",
+      "lon": 103.9237,
+      "lat": 30.5744,
+      "nmc_station_id": "56288",
+      "nmc_path": "ASC/shuangliu",
+      "weather_cn_code": "101270106",
+      "moji_slug": "sichuan/shuangliu-district",
+      "aliases": [
+        "成都双流",
+        "双流",
+        "天府新区"
+      ]
+    },
+    {
+      "province": "湖北省",
+      "city": "武汉",
+      "district": "江汉区",
+      "lon": 114.2709,
+      "lat": 30.6015,
+      "nmc_station_id": "57494",
+      "nmc_path": "AHB/wuhan",
+      "weather_cn_code": "101200108",
+      "moji_slug": "hubei/jianghan-district",
+      "aliases": [
+        "武汉江汉",
+        "江汉",
+        "武汉",
+        "武汉市",
+        "汉口",
+        "wuhan"
+      ]
+    },
+    {
+      "province": "湖北省",
+      "city": "武汉",
+      "district": "武昌区",
+      "lon": 114.3159,
+      "lat": 30.5539,
+      "nmc_station_id": "57494",
+      "nmc_path": "AHB/wuhan",
+      "weather_cn_code": "101200111",
+      "moji_slug": "hubei/wuchang-district",
+      "aliases": [
+        "武汉武昌",
+        "武昌"
+      ]
+    },
+    {
+      "province": "湖北省",
+      "city": "武汉",
+      "district": "洪山区",
+      "lon": 114.3438,
+      "lat": 30.5,
+      "nmc_station_id": "57494",
+      "nmc_path": "AHB/wuhan",
+      "weather_cn_code": "101200112",
+      "moji_slug": "hubei/hongshan-district",
+      "aliases": [
+        "武汉洪山",
+        "洪山",
+        "光谷"
+      ]
+    },
+    {
+      "province": "陕西省",
+      "city": "西安",
+      "district": "雁塔区",
+      "lon": 108.9487,
+      "lat": 34.2226,
+      "nmc_station_id": "57036",
+      "nmc_path": "ASN/xian",
+      "weather_cn_code": "101110113",
+      "moji_slug": "shaanxi/yanta-district",
+      "aliases": [
+        "西安雁塔",
+        "雁塔",
+        "西安",
+        "西安市",
+        "曲江",
+        "xian"
+      ]
+    },
+    {
+      "province": "陕西省",
+      "city": "西安",
+      "district": "碑林区",
+      "lon": 108.947,
+      "lat": 34.2512,
+      "nmc_station_id": "57036",
+      "nmc_path": "ASN/xian",
+      "weather_cn_code": "101110109",
+      "moji_slug": "shaanxi/beilin-district",
+      "aliases": [
+        "西安碑林",
+        "碑林",
+        "钟楼"
+      ]
+    },
+    {
+      "province": "陕西省",
+      "city": "西安",
+      "district": "未央区",
+      "lon": 108.9468,
+      "lat": 34.2929,
+      "nmc_station_id": "57036",
+      "nmc_path": "ASN/xian",
+      "weather_cn_code": "101110112",
+      "moji_slug": "shaanxi/weiyang-district",
+      "aliases": [
+        "西安未央",
+        "未央"
+      ]
+    },
+    {
+      "province": "陕西省",
+      "city": "西安",
+      "district": "长安区",
+      "lon": 108.907,
+      "lat": 34.1583,
+      "nmc_station_id": "57039",
+      "nmc_path": "ASN/changan",
+      "weather_cn_code": "101110102",
+      "moji_slug": "shaanxi/changan-district",
+      "aliases": [
+        "西安长安",
+        "长安区"
+      ]
+    },
+    {
+      "province": "天津市",
+      "city": "天津",
+      "district": "和平区",
+      "lon": 117.2147,
+      "lat": 39.1172,
+      "nmc_station_id": "54527",
+      "nmc_path": "ATJ/tianjin",
+      "weather_cn_code": "101030100",
+      "moji_slug": "tianjin/heping-district",
+      "aliases": [
+        "天津和平",
+        "天津",
+        "天津市",
+        "tianjin"
+      ]
+    },
+    {
+      "province": "天津市",
+      "city": "天津",
+      "district": "南开区",
+      "lon": 117.1507,
+      "lat": 39.1382,
+      "nmc_station_id": "54527",
+      "nmc_path": "ATJ/nankai",
+      "weather_cn_code": "101031600",
+      "moji_slug": "tianjin/nankai-district",
+      "aliases": [
+        "天津南开",
+        "南开"
+      ]
+    },
+    {
+      "province": "天津市",
+      "city": "天津",
+      "district": "滨海新区",
+      "lon": 117.6809,
+      "lat": 39.0294,
+      "nmc_station_id": "54623",
+      "nmc_path": "ATJ/binhaixinqu",
+      "weather_cn_code": "101031100",
+      "moji_slug": "tianjin/binhai-new-area",
+      "aliases": [
+        "天津滨海",
+        "滨海新区",
+        "塘沽"
+      ]
+    },
+    {
+      "province": "重庆市",
+      "city": "重庆",
+      "district": "渝中区",
+      "lon": 106.569,
+      "lat": 29.5528,
+      "nmc_station_id": "57516",
+      "nmc_path": "ACQ/chongqing",
+      "weather_cn_code": "101040100",
+      "moji_slug": "chongqing/yuzhong-district",
+      "aliases": [
+        "重庆渝中",
+        "渝中",
+        "重庆",
+        "重庆市",
+        "解放碑",
+        "chongqing"
+      ]
+    },
+    {
+      "province": "重庆市",
+      "city": "重庆",
+      "district": "江北区",
+      "lon": 106.5743,
+      "lat": 29.6066,
+      "nmc_station_id": "57516",
+      "nmc_path": "ACQ/jiangbei",
+      "weather_cn_code": "101044100",
+      "moji_slug": "chongqing/jiangbei-district",
+      "aliases": [
+        "重庆江北",
+        "江北区",
+        "观音桥"
+      ]
+    },
+    {
+      "province": "重庆市",
+      "city": "重庆",
+      "district": "渝北区",
+      "lon": 106.6307,
+      "lat": 29.7181,
+      "nmc_station_id": "57516",
+      "nmc_path": "ACQ/yubei",
+      "weather_cn_code": "101040700",
+      "moji_slug": "chongqing/yubei-district",
+      "aliases": [
+        "重庆渝北",
+        "渝北"
+      ]
+    },
+    {
+      "province": "湖南省",
+      "city": "长沙",
+      "district": "岳麓区",
+      "lon": 112.9388,
+      "lat": 28.2282,
+      "nmc_station_id": "57687",
+      "nmc_path": "AHN/changsha",
+      "weather_cn_code": "101250109",
+      "moji_slug": "hunan/yuelu-district",
+      "aliases": [
+        "长沙岳麓",
+        "岳麓",
+        "长沙",
+        "长沙市",
+        "changsha"
+      ]
+    },
+    {
+      "province": "湖南省",
+      "city": "长沙",
+      "district": "芙蓉区",
+      "lon": 113.0318,
+      "lat": 28.1845,
+      "nmc_station_id": "57687",
+      "nmc_path": "AHN/changsha",
+      "weather_cn_code": "101250107",
+      "moji_slug": "hunan/furong-district",
+      "aliases": [
+        "长沙芙蓉",
+        "芙蓉",
+        "五一广场"
+      ]
+    },
+    {
+      "province": "河南省",
+      "city": "郑州",
+      "district": "金水区",
+      "lon": 113.6606,
+      "lat": 34.8003,
+      "nmc_station_id": "57083",
+      "nmc_path": "AHA/zhengzhou",
+      "weather_cn_code": "101180111",
+      "moji_slug": "henan/jinshui-district",
+      "aliases": [
+        "郑州金水",
+        "金水",
+        "郑州",
+        "郑州市",
+        "zhengzhou"
+      ]
+    },
+    {
+      "province": "山东省",
+      "city": "青岛",
+      "district": "市南区",
+      "lon": 120.3826,
+      "lat": 36.0671,
+      "nmc_station_id": "54857",
+      "nmc_path": "ASD/qingdao",
+      "weather_cn_code": "101120201",
+      "moji_slug": "shandong/shinan-district",
+      "aliases": [
+        "青岛市南",
+        "市南",
+        "青岛",
+        "青岛市",
+        "qingdao"
+      ]
+    },
+    {
+      "province": "山东省",
+      "city": "青岛",
+      "district": "崂山区",
+      "lon": 120.4691,
+      "lat": 36.1072,
+      "nmc_station_id": "54857",
+      "nmc_path": "ASD/laoshan",
+      "weather_cn_code": "101120202",
+      "moji_slug": "shandong/laoshan-district",
+      "aliases": [
+        "青岛崂山",
+        "崂山"
+      ]
+    },
+    {
+      "province": "山东省",
+      "city": "济南",
+      "district": "历下区",
+      "lon": 117.0769,
+      "lat": 36.6665,
+      "nmc_station_id": "54823",
+      "nmc_path": "ASD/jinan",
+      "weather_cn_code": "101120107",
+      "moji_slug": "shandong/lixia-district",
+      "aliases": [
+        "济南历下",
+        "历下",
+        "济南",
+        "济南市",
+        "jinan"
+      ]
+    },
+    {
+      "province": "辽宁省",
+      "city": "大连",
+      "district": "中山区",
+      "lon": 121.6449,
+      "lat": 38.9186,
+      "nmc_station_id": "54662",
+      "nmc_path": "ALN/dalian",
+      "weather_cn_code": "101070201",
+      "moji_slug": "liaoning/zhongshan-district",
+      "aliases": [
+        "大连中山",
+        "大连",
+        "大连市",
+        "dalian"
+      ]
+    },
+    {
+      "province": "辽宁省",
+      "city": "沈阳",
+      "district": "和平区",
+      "lon": 123.4207,
+      "lat": 41.7879,
+      "nmc_station_id": "54342",
+      "nmc_path": "ALN/shenyang",
+      "weather_cn_code": "101070101",
+      "moji_slug": "liaoning/shenyang",
+      "aliases": [
+        "沈阳和平",
+        "沈阳",
+        "沈阳市",
+        "shenyang"
+      ]
+    },
+    {
+      "province": "福建省",
+      "city": "厦门",
+      "district": "思明区",
+      "lon": 118.0823,
+      "lat": 24.4455,
+      "nmc_station_id": "59134",
+      "nmc_path": "AFJ/xiamen",
+      "weather_cn_code": "101230201",
+      "moji_slug": "fujian/siming-district",
+      "aliases": [
+        "厦门思明",
+        "思明",
+        "厦门",
+        "厦门市",
+        "xiamen"
+      ]
+    },
+    {
+      "province": "福建省",
+      "city": "福州",
+      "district": "鼓楼区",
+      "lon": 119.3039,
+      "lat": 26.0822,
+      "nmc_station_id": "58847",
+      "nmc_path": "AFJ/fuzhou",
+      "weather_cn_code": "101230101",
+      "moji_slug": "fujian/fuzhou",
+      "aliases": [
+        "福州鼓楼",
+        "福州",
+        "福州市",
+        "fuzhou"
+      ]
+    },
+    {
+      "province": "黑龙江省",
+      "city": "哈尔滨",
+      "district": "南岗区",
+      "lon": 126.6687,
+      "lat": 45.7599,
+      "nmc_station_id": "50953",
+      "nmc_path": "AHL/haerbin",
+      "weather_cn_code": "101050115",
+      "moji_slug": "heilongjiang/nangang-district",
+      "aliases": [
+        "哈尔滨南岗",
+        "南岗",
+        "哈尔滨",
+        "哈尔滨市",
+        "harbin"
+      ]
+    },
+    {
+      "province": "黑龙江省",
+      "city": "哈尔滨",
+      "district": "道里区",
+      "lon": 126.617,
+      "lat": 45.7559,
+      "nmc_station_id": "50953",
+      "nmc_path": "AHL/haerbin",
+      "weather_cn_code": "101050114",
+      "moji_slug": "heilongjiang/daoli-district",
+      "aliases": [
+        "哈尔滨道里",
+        "道里",
+        "中央大街"
+      ]
+    },
+    {
+      "province": "吉林省",
+      "city": "长春",
+      "district": "朝阳区",
+      "lon": 125.2882,
+      "lat": 43.8342,
+      "nmc_station_id": "54161",
+      "nmc_path": "AJL/changchun",
+      "weather_cn_code": "101060101",
+      "moji_slug": "jilin/changchun",
+      "aliases": [
+        "长春朝阳",
+        "长春",
+        "长春市",
+        "changchun"
+      ]
+    },
+    {
+      "province": "河北省",
+      "city": "石家庄",
+      "district": "裕华区",
+      "lon": 114.5311,
+      "lat": 38.0069,
+      "nmc_station_id": "53698",
+      "nmc_path": "AHE/shijiazhuang",
+      "weather_cn_code": "101090101",
+      "moji_slug": "hebei/yuhua-district",
+      "aliases": [
+        "石家庄裕华",
+        "裕华",
+        "石家庄",
+        "石家庄市",
+        "shijiazhuang"
+      ]
+    },
+    {
+      "province": "山西省",
+      "city": "太原",
+      "district": "迎泽区",
+      "lon": 112.5632,
+      "lat": 37.8638,
+      "nmc_station_id": "53772",
+      "nmc_path": "ASX/taiyuan",
+      "weather_cn_code": "101100101",
+      "moji_slug": "shanxi/yingze-district",
+      "aliases": [
+        "太原迎泽",
+        "迎泽",
+        "太原",
+        "太原市",
+        "taiyuan"
+      ]
+    },
+    {
+      "province": "内蒙古自治区",
+      "city": "呼和浩特",
+      "district": "新城区",
+      "lon": 111.6656,
+      "lat": 40.8583,
+      "nmc_station_id": "53463",
+      "nmc_path": "ANM/huhehaote",
+      "weather_cn_code": "101080101",
+      "moji_slug": "inner-mongolia/xincheng-district",
+      "aliases": [
+        "呼和浩特新城",
+        "呼和浩特",
+        "呼市",
+        "hohhot"
+      ]
+    },
+    {
+      "province": "安徽省",
+      "city": "合肥",
+      "district": "蜀山区",
+      "lon": 117.261,
+      "lat": 31.8512,
+      "nmc_station_id": "58321",
+      "nmc_path": "AAH/hefei",
+      "weather_cn_code": "101220101",
+      "moji_slug": "anhui/shushan-district",
+      "aliases": [
+        "合肥蜀山",
+        "蜀山",
+        "合肥",
+        "合肥市",
+        "hefei"
+      ]
+    },
+    {
+      "province": "江西省",
+      "city": "南昌",
+      "district": "红谷滩",
+      "lon": 115.8582,
+      "lat": 28.6829,
+      "nmc_station_id": "58606",
+      "nmc_path": "AJX/nanchang",
+      "weather_cn_code": "101240101",
+      "moji_slug": "jiangxi/nanchang",
+      "aliases": [
+        "南昌红谷滩",
+        "红谷滩",
+        "南昌",
+        "南昌市",
+        "nanchang"
+      ]
+    },
+    {
+      "province": "云南省",
+      "city": "昆明",
+      "district": "五华区",
+      "lon": 102.7072,
+      "lat": 25.0435,
+      "nmc_station_id": "56778",
+      "nmc_path": "AYN/kunming",
+      "weather_cn_code": "101290101",
+      "moji_slug": "yunnan/wuhua-district",
+      "aliases": [
+        "昆明五华",
+        "五华",
+        "昆明",
+        "昆明市",
+        "kunming"
+      ]
+    },
+    {
+      "province": "贵州省",
+      "city": "贵阳",
+      "district": "云岩区",
+      "lon": 106.7245,
+      "lat": 26.6046,
+      "nmc_station_id": "57816",
+      "nmc_path": "AGZ/guiyang",
+      "weather_cn_code": "101260101",
+      "moji_slug": "guizhou/yunyan-district",
+      "aliases": [
+        "贵阳云岩",
+        "云岩",
+        "贵阳",
+        "贵阳市",
+        "guiyang"
+      ]
+    },
+    {
+      "province": "甘肃省",
+      "city": "兰州",
+      "district": "城关区",
+      "lon": 103.8256,
+      "lat": 36.057,
+      "nmc_station_id": "52889",
+      "nmc_path": "AGS/lanzhou",
+      "weather_cn_code": "101160101",
+      "moji_slug": "gansu/chengguan-district",
+      "aliases": [
+        "兰州城关",
+        "兰州",
+        "兰州市",
+        "lanzhou"
+      ]
+    },
+    {
+      "province": "甘肃省",
+      "city": "兰州",
+      "district": "安宁区",
+      "lon": 103.7198,
+      "lat": 36.1039,
+      "nmc_station_id": "52889",
+      "nmc_path": "AGS/lanzhou",
+      "weather_cn_code": "101160108",
+      "moji_slug": "gansu/anning-district",
+      "aliases": [
+        "兰州安宁",
+        "安宁区",
+        "安宁",
+        "兰州交通大学",
+        "西北师范大学",
+        "甘肃农业大学",
+        "培黎广场",
+        "桃海市场",
+        "费家营"
+      ]
+    },
+    {
+      "province": "宁夏回族自治区",
+      "city": "银川",
+      "district": "金凤区",
+      "lon": 106.2309,
+      "lat": 38.4872,
+      "nmc_station_id": "53614",
+      "nmc_path": "ANX/yinchuan",
+      "weather_cn_code": "101170101",
+      "moji_slug": "ningxia/jinfeng-district",
+      "aliases": [
+        "银川金凤",
+        "金凤",
+        "银川",
+        "银川市",
+        "yinchuan"
+      ]
+    },
+    {
+      "province": "新疆维吾尔自治区",
+      "city": "乌鲁木齐",
+      "district": "天山区",
+      "lon": 87.6168,
+      "lat": 43.7942,
+      "nmc_station_id": "51463",
+      "nmc_path": "AXJ/wulumuqi",
+      "weather_cn_code": "101130101",
+      "moji_slug": "xinjiang/tianshan-district",
+      "aliases": [
+        "乌鲁木齐天山",
+        "乌鲁木齐",
+        "乌市",
+        "urumqi"
+      ]
+    },
+    {
+      "province": "西藏自治区",
+      "city": "拉萨",
+      "district": "城关区",
+      "lon": 91.1409,
+      "lat": 29.6456,
+      "nmc_station_id": "55591",
+      "nmc_path": "AXZ/lasa",
+      "weather_cn_code": "101140101",
+      "moji_slug": "tibet/lhasa",
+      "aliases": [
+        "拉萨城关",
+        "拉萨",
+        "拉萨市",
+        "lhasa"
+      ]
+    },
+    {
+      "province": "海南省",
+      "city": "海口",
+      "district": "龙华区",
+      "lon": 110.3308,
+      "lat": 20.0311,
+      "nmc_station_id": "59758",
+      "nmc_path": "AHI/haikou",
+      "weather_cn_code": "101310101",
+      "moji_slug": "hainan/haikou",
+      "aliases": [
+        "海口龙华",
+        "海口",
+        "海口市",
+        "haikou"
+      ]
+    },
+    {
+      "province": "海南省",
+      "city": "三亚",
+      "district": "吉阳区",
+      "lon": 109.5119,
+      "lat": 18.2528,
+      "nmc_station_id": "59948",
+      "nmc_path": "AHI/sanya",
+      "weather_cn_code": "101310201",
+      "moji_slug": "hainan/sanya",
+      "aliases": [
+        "三亚吉阳",
+        "吉阳",
+        "三亚",
+        "三亚市",
+        "sanya"
+      ]
+    },
+    {
+      "province": "香港特别行政区",
+      "city": "香港",
+      "district": "九龙",
+      "lon": 114.1694,
+      "lat": 22.3193,
+      "nmc_station_id": "45007",
+      "nmc_path": "AHK/xianggang",
+      "weather_cn_code": "101320101",
+      "moji_slug": "hongkong/hongkong",
+      "aliases": [
+        "香港九龙",
+        "香港",
+        "hongkong",
+        "hk"
+      ]
+    },
+    {
+      "province": "澳门特别行政区",
+      "city": "澳门",
+      "district": "半岛",
+      "lon": 113.5439,
+      "lat": 22.1987,
+      "nmc_station_id": "45011",
+      "nmc_path": "AAM/aomen",
+      "weather_cn_code": "101330101",
+      "moji_slug": "macao/macao",
+      "aliases": [
+        "澳门半岛",
+        "澳门",
+        "macao"
+      ]
+    }
+  ]
+}
